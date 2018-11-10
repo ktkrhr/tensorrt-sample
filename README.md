@@ -4,6 +4,10 @@
 
 [TensorRT installation](https://docs.nvidia.com/deeplearning/sdk/tensorrt-install-guide/index.html#installing)
 
+```
+$pip install Pillow pycuda numpy
+```
+
 ## TensorFlow model conversion to Uff
 
 ```
